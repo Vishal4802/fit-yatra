@@ -427,7 +427,7 @@ const App = () => {
         <h3 className="head-text">
           <b>Contact: </b>+91-9352299663
         </h3>
-        <h3 className="head-text">
+        <h3 className="footer-links">
           <b>Email: </b>vishal4802@gmail.com
         </h3>
         // <ul className="footer-links">
