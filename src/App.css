@@ -37,9 +37,6 @@
 }
 
 .footer-links {
-  list-style-type: none;
-  display: flex;
-  justify-content: center;
   padding-right: 10px;
 }
 
@@ -47,6 +44,26 @@
   text-decoration: none;
   font-size: large;
   color: #ffffff;
+}
+
+.footer {
+  background-color: #252330;
+  padding: 10px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer p {
+  color: white;
+}
+
+.footer h3 {
+  color: white;
+  width: 100%;
+  padding-left: 5%;
+  font-size: large;
 }
 
 .content {
@@ -300,25 +317,7 @@
   height: 25px;
 }
 
-.footer {
-  background-color: #252330;
-  padding: 10px;
-  width: 100%;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
 
-.footer p {
-  color: white;
-}
-
-.footer h3 {
-  color: white;
-  width: 100%;
-  padding-left: 5%;
-  font-size: large;
-}
 
 
 
