@@ -424,12 +424,12 @@ const App = () => {
       </div>
 
       <footer className="footer">
-        <h3 className="head-text">
+        <div className="head-text">
           <b>Contact: </b>+91-9352299663
-        </h3>
-        <h3 className="footer-links">
+        </div>
+        <div className="footer-links">
           <b>Email: </b>vishal4802@gmail.com
-        </h3>
+        </div>
       </footer>
     </div>
   );
