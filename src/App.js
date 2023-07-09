@@ -435,7 +435,7 @@ const App = () => {
           </li>
           <li>
             <a href="https:/www.linkedin.com/in/vishal-sharma-a0724a197" target="_blank" rel="noreferrer">
-              LinkedIn
+              Linkedin
             </a>
           </li>
           <li>
