@@ -429,19 +429,19 @@ const App = () => {
         </h3>
         <ul className="footer-links">
           <li>
-            <a href="https:/vishalsmyportfolio.netlify.app" target="_blank" rel="noreferrer">
+            <button href="https:/vishalsmyportfolio.netlify.app" target="_blank" rel="noreferrer">
               About
-            </a>
+            </button>
           </li>
           <li>
-            <a href="https:/www.linkedin.com/in/vishal-sharma-a0724a197" target="_blank" rel="noreferrer">
+            <button href="https:/www.linkedin.com/in/vishal-sharma-a0724a197" target="_blank" rel="noreferrer">
               Linkedin
-            </a>
+            </button>
           </li>
           <li>
-            <a href="https:/www.instagram.com/vishal__4802" target="_blank" rel="noreferrer">
+            <button href="https:/www.instagram.com/vishal__4802" target="_blank" rel="noreferrer">
               Instagram
-            </a>
+            </button>
           </li>
         </ul>
       </footer>
