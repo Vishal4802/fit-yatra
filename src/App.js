@@ -200,7 +200,7 @@ const App = () => {
   return (
     <div className="container">
       <nav className="navbar">
-        <h3 className="head-text">FITYATRA</h3>
+        <h3 className="nav-text">FITYATRA</h3>
         <ul className="nav-links">
           <li>
             <a href="/">Home</a>
