@@ -427,23 +427,26 @@ const App = () => {
         <h3 className="head-text">
           <b>Contact: </b>+91-9352299663
         </h3>
-        <ul className="footer-links">
-          <li>
-            <button onclick="window.location.href = 'https:/vishalsmyportfolio.netlify.app';" >
-              About
-            </button>
-          </li>
-          <li>
-            <button onclick="window.location.href = 'https:/www.linkedin.com/in/vishal-sharma-a0724a197';" >
-              Linkedin
-            </button>
-          </li>
-          <li>
-            <button onclick="window.location.href = 'https:/www.instagram.com/vishal__4802';" >
-              Instagram
-            </button>
-          </li>
-        </ul>
+        <h3 className="head-text">
+          <b>Email: </b>vishal4802@gmail.com
+        </h3>
+        // <ul className="footer-links">
+        //   <li>
+        //     <button onclick="window.location.href = 'https:/vishalsmyportfolio.netlify.app';" >
+        //       About
+        //     </button>
+        //   </li>
+        //   <li>
+        //     <button onclick="window.location.href = 'https:/www.linkedin.com/in/vishal-sharma-a0724a197';" >
+        //       Linkedin
+        //     </button>
+        //   </li>
+        //   <li>
+        //     <button onclick="window.location.href = 'https:/www.instagram.com/vishal__4802';" >
+        //       Instagram
+        //     </button>
+        //   </li>
+        // </ul>
       </footer>
     </div>
   );
