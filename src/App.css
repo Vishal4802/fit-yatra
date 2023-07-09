@@ -42,8 +42,11 @@
 }
 
 .head-text{
-  padding-left: 10px;
+  padding-left: 30px;
   color: white;
+  min-width: 430px;
+  width: 1030px;
+  
 }
 
 
