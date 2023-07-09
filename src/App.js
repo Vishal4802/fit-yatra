@@ -430,23 +430,6 @@ const App = () => {
         <h3 className="footer-links">
           <b>Email: </b>vishal4802@gmail.com
         </h3>
-        // <ul className="footer-links">
-        //   <li>
-        //     <button onclick="window.location.href = 'https:/vishalsmyportfolio.netlify.app';" >
-        //       About
-        //     </button>
-        //   </li>
-        //   <li>
-        //     <button onclick="window.location.href = 'https:/www.linkedin.com/in/vishal-sharma-a0724a197';" >
-        //       Linkedin
-        //     </button>
-        //   </li>
-        //   <li>
-        //     <button onclick="window.location.href = 'https:/www.instagram.com/vishal__4802';" >
-        //       Instagram
-        //     </button>
-        //   </li>
-        // </ul>
       </footer>
     </div>
   );
