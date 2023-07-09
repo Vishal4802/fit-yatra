@@ -124,11 +124,11 @@ const App = () => {
   };
 
   const products = [
-    { id: 1, name: 'Whey Protein', price: 1900, image: 'images/protein-powder.jpg', type: 'Whey Protein' },
-    { id: 2, name: 'Peanut Butter', price: 450, image: 'images/peanut-butter.png', type: 'Peanut Butter' },
-    { id: 3, name: 'Oats', price: 500, image: 'images/oats.jpg', type: 'Oats' },
-    { id: 4, name: 'Creatine', price: 900, image: 'images/creatine.png', type: 'Creatine' },
-    { id: 5, name: 'Shaker', price: 250, image: 'images/shaker.png', type: 'Shaker' },
+    { id: 1, name: 'Whey Protein', price: 1899, image: 'images/protein-powder.jpg', type: 'Whey Protein' },
+    { id: 2, name: 'Peanut Butter', price: 449, image: 'images/peanut-butter.png', type: 'Peanut Butter' },
+    { id: 3, name: 'Oats', price: 499, image: 'images/oats.jpg', type: 'Oats' },
+    { id: 4, name: 'Creatine', price: 899, image: 'images/creatine.png', type: 'Creatine' },
+    { id: 5, name: 'Shaker', price: 249, image: 'images/shaker.png', type: 'Shaker' },
   ];
 
   const [searchQuery, setSearchQuery] = useState('');
