@@ -50,6 +50,22 @@
 }
 
 
+
+html, body {
+  height: 100%;
+}
+
+.wrapper {
+  min-height: 100%;
+  margin-bottom: -65px;
+}
+
+.footer {
+  height: 65px;
+}
+
+
+
 .footer {
   background-color: #252330;
   padding: 10px;
