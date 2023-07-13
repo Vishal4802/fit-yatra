@@ -57,11 +57,11 @@ html, body {
 
 .wrapper {
   min-height: 100%;
-  margin-bottom: -65px;
+  margin-bottom: -50px;
 }
 
 .footer {
-  height: 65px;
+  height: 50px;
 }
 
 
